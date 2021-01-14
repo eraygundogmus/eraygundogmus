@@ -11,7 +11,7 @@ My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living 
 
 
 <div align='right'>
-  ### You can find me on 
+  <h3> You can find me on </h3>   <br> <br>
 <a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png"/></a><a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/64/linkedin-icon.png"/></a><a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/64/Instagram-icon.png"/></a><a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png"/></a><a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/Gmail-icon.png"/></a>
 <h5>📌Languages and Tools</h5>
 <img align="right" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/1734137a535b70cd7e4c939eb87d1b5fbbf1e55b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39662f56696d6c6f676f2e737667" />
