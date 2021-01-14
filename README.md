@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+You can find me on
+My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. 
+
+
+
+### You can find me on 
+<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png"/></a><a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/64/linkedin-icon.png"/></a><a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/64/Instagram-icon.png"/></a><a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png"/></a><a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/Gmail-icon.png"/></a>
+
 
 <!--
 **eraygundogmus/eraygundogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
