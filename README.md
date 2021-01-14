@@ -21,8 +21,7 @@ My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br><br>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraygundogmus&layout=compact)](https://github.com/eraygundogmus/github-readme-stats)
+![Eray's github stats](https://github-readme-stats.vercel.app/api?username=eraygundogmus&show_icons=true&theme=radical)
 
 <!--
 **eraygundogmus/eraygundogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
