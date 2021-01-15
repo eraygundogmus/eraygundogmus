@@ -2,12 +2,12 @@
 <h3> My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. </h3>  <br> <br> <br>
 
 
-<h4>  Code: Javascript <br>
+<h3>  Code: Javascript <br>
 Technologies: {<br> 
     Js: React<br>
     CSS: Chakra UI, Tailwind, Bootstrap }
 
-</h4>
+</h3>
 <br>
 <br>
 <br><br><br><br><br>
