@@ -4,9 +4,9 @@
 
 <h3>  Code: Javascript <br>
 Technologies: 
-    {<br> 
+     <br>{<br> 
     Js: React<br>
-    CSS: Chakra UI, Tailwind, Bootstrap 
+    CSS: Chakra UI, Tailwind, Bootstrap  <br>
     }
 
 </h3>
