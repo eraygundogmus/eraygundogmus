@@ -13,8 +13,10 @@ Technologies:
 <br>
 
 <h3> Latest Blog Posts <br>
-     <h3> 
-[pip](https://pip.pypa.io/en/stable/)
+     </h3> 
+     
+[pip](https://pip.pypa.io/en/stable/)     
+
 <br>
 <br><br><br><br><br>
 
