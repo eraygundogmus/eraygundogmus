@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2> My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. </h2>  <br> <br> <br>
+<h3> My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. </h3>  <br> <br> <br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eraygundogmus&show_icons=true&theme=radical">
 <h4>  Code: Javascript <br>
