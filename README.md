@@ -4,9 +4,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eraygundogmus&show_icons=true&theme=radical">
 <h4>  Code: Javascript <br>
-Technologies: <br>
+Technologies: <br> {
     Js: React<br>
-    CSS: Chakra UI, Tailwind, Bootstrap 
+    CSS: Chakra UI, Tailwind, Bootstrap }
 
 </h4>
 <br>
