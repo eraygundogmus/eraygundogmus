@@ -15,9 +15,7 @@ Technologies: {<br>
 
 
 <div align='right'>
-  <h3> You can find me on </h3>   <br> 
-<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a><a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a><a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a><a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a><a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
-<h3>📌Languages and Tools</h3>  <br>
+    <h3>📌Languages and Tools</h3>  <br>
 <img align="right" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/1734137a535b70cd7e4c939eb87d1b5fbbf1e55b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39662f56696d6c6f676f2e737667" />
 <img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="right" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,7 +24,10 @@ Technologies: {<br>
 <img align="right" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="right" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="right" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br><br></div>
+<img align="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <h3> You can find me on </h3>   <br> 
+<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a><a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a><a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a><a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a><a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
+ <br><br></div>
 <!--
 **eraygundogmus/eraygundogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
