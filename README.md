@@ -3,28 +3,12 @@
 <p> My name is Eray Gundogmus and I'm a software developer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. </p>  <br> <br> <br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eraygundogmus&show_icons=true&theme=radical">
-<h4>const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};</h4>
+<h4>  Code: Javascript 
+Technologies: 
+    Js: React
+    CSS: Chakra UI, Tailwind, Bootstrap 
+
+</h4>
 <br>
 <br>
 <br><br><br><br><br><br><br><br><br><br>
