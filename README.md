@@ -14,7 +14,7 @@ Technologies:
 
 <h3> Latest Blog Posts <br>
      <h3> 
- [Bir](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e/)
+[pip](https://pip.pypa.io/en/stable/)
 <br>
 <br><br><br><br><br>
 
