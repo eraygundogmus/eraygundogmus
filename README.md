@@ -3,9 +3,11 @@
 
 
 <h3>  Code: Javascript <br>
-Technologies: {<br> 
+Technologies: 
+    {<br> 
     Js: React<br>
-    CSS: Chakra UI, Tailwind, Bootstrap }
+    CSS: Chakra UI, Tailwind, Bootstrap 
+    }
 
 </h3>
 <br>
