@@ -14,7 +14,7 @@ Technologies:
 
 <h3> Latest Blog Posts <br>
      <h3> 
- [Bir React projesi Netlify’da nasıl host edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e/)
+ [Bir](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e/)
 <br>
 <br><br><br><br><br>
 
