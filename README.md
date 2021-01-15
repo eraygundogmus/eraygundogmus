@@ -12,9 +12,9 @@ Technologies:
 </h3>
 <br>
 
-<h3> Latest Blog Posts <br>
+<h4> Latest Blog Posts <br>
 
-</h3> 
+</h4> 
 
 [Bir React projesi Netlify ile nasıl deploy edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e)     
 
