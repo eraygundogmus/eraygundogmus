@@ -3,7 +3,7 @@
 
 <br>
 <h3>  Code: Javascript <br>
-Technologies: 
+Technologies 
      <br>{<br> 
     Js: React;<br>
     CSS: Chakra UI, Tailwind, Bootstrap  <br>
