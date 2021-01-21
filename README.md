@@ -17,6 +17,8 @@ Technologies
 </h4> 
 
 [Bir React projesi Netlify ile nasıl deploy edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e)     
+[How you become a programmer with ADHD?](https://gundogmuseray.medium.com/how-you-become-a-programmer-with-adhd-2d4d89fb195a)     
+
 
 
 <br>
