@@ -39,8 +39,9 @@ Technologies
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    <br>  <h3> You can find me on </h3>   <br> 
-<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a>
-     <a href="https://www.behance.net/eraygndomu"><img src="https://www.iconsdb.com/icons/download/black/behance-4-48.png"/></a><a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a><a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a><a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a><a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
+<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a> &nbsp
+     <a href="https://www.behance.net/eraygndomu"><img src="https://www.iconsdb.com/icons/download/black/behance-4-48.png"/></a>  &nbsp
+     <a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a> &nbsp <a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a> &nbsp <a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a> &nbsp <a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
      
 
  <br><br></div>
