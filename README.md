@@ -34,6 +34,8 @@ Technologies
 https://www.behance.net/gallery/113591187/Wikipedia-UIUX-Redesign)     
    
 
+<br>
+<br>
 
 <div align='left'>
     <h3>Languages and Tools</h3>  <br>
