@@ -14,6 +14,7 @@ Technologies
 <br>
 <h4> Latest Blog Posts <br>
 
+
 </h4> 
 
 [Bir React projesi Netlify ile nasıl deploy edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e)     
@@ -24,8 +25,14 @@ Technologies
 <br>
 <br>
 
+<h4> Latest Works <br>
 
 
+</h4> 
+
+[Wikipedia UI/UX Redesign](
+https://www.behance.net/gallery/113591187/Wikipedia-UIUX-Redesign)     
+   
 
 
 <div align='left'>
