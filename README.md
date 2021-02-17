@@ -6,7 +6,7 @@
 Technologies 
      <br>{<br> 
     JS: React;<br>
-    CSS: Chakra UI, Tailwind, Bootstrap  <br>
+    CSS: Sass, Tailwind, Bootstrap  <br>
     }
 
 </h3>
