@@ -25,7 +25,7 @@ Technologies
 <br>
 <br>
 
-<h4> Latest Works <br>
+<h4> Latest Design Works <br>
 
 
 </h4> 
