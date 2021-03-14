@@ -32,6 +32,8 @@ Technologies
 
 [Wikipedia UI/UX Redesign](
 https://www.behance.net/gallery/113591187/Wikipedia-UIUX-Redesign)     
+[Lichess.org UI/UX Redesign](
+https://www.behance.net/gallery/115395263/Lichess-UIUX-Redesign-Logo-Design)   
    
 
 <br>
