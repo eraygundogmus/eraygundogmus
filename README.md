@@ -1,6 +1,5 @@
 # Hello, folks!
-<h3> My name is Eray Gundogmus and I'm a software developer and UI/UX Designer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. Now I am aiming to learn three.js and improve my JavaScript skills</h3>  <br> <br> <br>
-
+<h3> My name is Eray Gundogmus and I'm a software developer and UI/UX Designer. I'm from Turkey, living in Istanbul and I'm not currently working in a company. Now I am aiming to learn three.js and improve my JavaScript skills</h3>  <br>
 <br>
 <h3>  Code: JavaScript <br>
 Technologies 
@@ -11,7 +10,9 @@ Technologies
 
 </h3>
 <br>
-<br>
+<br
+
+
 <h4> Latest Blog Posts <br>
 
 
