@@ -3,13 +3,14 @@
 <br>
 <h3>  Code: JavaScript <br>
 Technologies 
+     <img align="right" width="300px"src="https://i.giphy.com/media/VIW31Y6odbATrDKjjd/giphy-downsized.gif">
      <br>{<br> 
     JS: React;<br>
     CSS: Sass, Tailwind, Bootstrap  <br>
     }
 
 </h3>
-<img width="300px"src="https://i.giphy.com/media/VIW31Y6odbATrDKjjd/giphy-downsized.gif">
+
 <br>
 <br
 
