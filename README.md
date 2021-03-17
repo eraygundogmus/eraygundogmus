@@ -3,16 +3,18 @@
 <br>
 <h3>  
 
-     {
-    JavaScript: 'React,Next.js,Three.js',
-    CSS: 'SasS, Tailwind, Bootstrap',
-    DesignTools: 'Figma, Illustrator, Photoshop, Blender'
+     const obj = {
+        JavaScript: 'React,Next.js,Three.js',
+        CSS: 'SasS, Tailwind, Bootstrap',
+        DesignTools: 'Figma, Illustrator, Photoshop, Blender'
     }
 
 </h3>
 
 <br>
 <br
+<br>
+<br>
 
 
 <h4> Latest Blog Posts <br>
