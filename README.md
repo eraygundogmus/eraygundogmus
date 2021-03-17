@@ -4,8 +4,9 @@
 <h3>  
 
      {
-    JS: React;
-    CSS: SasS, Tailwind, Bootstrap
+    JavaScript: 'React,Next.js,Three.js',
+    CSS: 'SasS, Tailwind, Bootstrap',
+    DesignTools: 'Figma, Illustrator, Photoshop, Blender'
     }
 
 </h3>
