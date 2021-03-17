@@ -4,8 +4,8 @@
 <h3>  
 
      {
-    JS: React;<br>
-    CSS: Sass, Tailwind, Bootstrap 
+    JS: React;
+    CSS: SasS, Tailwind, Bootstrap
     }
 
 </h3>
