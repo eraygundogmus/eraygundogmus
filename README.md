@@ -19,16 +19,10 @@
 
 <h4> Latest Blog Posts <br>
 
-
 </h4> 
 
 [Bir React projesi Netlify ile nasıl deploy edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e)     
 [How you become a programmer with ADHD?](https://gundogmuseray.medium.com/how-you-become-a-programmer-with-adhd-2d4d89fb195a)     
-
-
-
-<br>
-<br>
 
 <h4> Latest Design Works <br>
 
@@ -55,9 +49,9 @@ https://www.behance.net/gallery/115395263/Lichess-UIUX-Redesign-Logo-Design)
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    <br> <br> <h3> You can find me on </h3>   <br> 
-<a href="https://twitter.com/eraygundogmuss/"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a> &nbsp
-     <a href="https://www.behance.net/eraygndomu"><img src="https://www.iconsdb.com/icons/download/black/behance-4-48.png"/></a>  &nbsp
-     <a href="https://www.linkedin.com/in/eraygundogmus/"><img src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a> &nbsp <a href="https://www.instagram.com/eraygundogmss/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a> &nbsp <a href="https://github.com/eraygundogmus"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a> &nbsp <a href="mailto:gundogmuseray@gmail.com?"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
+<a href="https://twitter.com/eraygundogmuss/"><img width="28px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"/></a> &nbsp
+     <a href="https://www.behance.net/eraygndomu"><img width="28px" src="https://www.iconsdb.com/icons/download/black/behance-4-48.png"/></a>  &nbsp
+     <a href="https://www.linkedin.com/in/eraygundogmus/"><img width="28px" src="https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png"/></a> &nbsp <a href="https://www.instagram.com/eraygundogmss/"><img width="28px" src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/48/Instagram-icon.png"/></a> &nbsp <a href="https://github.com/eraygundogmus"><img width="28px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png"/></a> &nbsp <a href="mailto:gundogmuseray@gmail.com?"><img width="28px" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/48/Gmail-icon.png"/></a>
      
 
  <br><br></div>
