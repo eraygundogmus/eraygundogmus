@@ -5,7 +5,7 @@
 
      const obj = {
         JavaScript: 'React, Next.js, Three.js, Vue',
-        CSS: 'SasS, Tailwind, Bootstrap, PostCSS, Material UI',
+        CSS: 'SasS, Tailwind, Bootstrap, PostCSS, Styled-jsx, Material UI',
         DesignTools: 'Figma, Illustrator, Photoshop, Blender'
         }
 
