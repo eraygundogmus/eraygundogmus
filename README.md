@@ -21,8 +21,9 @@
 
 </h4> 
 
+[NextJs Projelerinize Çoklu Dil Desteği Eklemenin Kolay Yolu : next-i18next](https://gundogmuseray.medium.com/nextjs-projelerinize-%C3%A7oklu-dil-deste%C4%9Fi-eklemenin-kolay-yolu-next-i18next-b3392395eb40)    
 [Bir React projesi Netlify ile nasıl deploy edilir?](https://gundogmuseray.medium.com/bir-react-projesi-netlifyda-nas%C4%B1l-host-edilir-a77557072c2e)     
-[How you become a programmer with ADHD?](https://gundogmuseray.medium.com/how-you-become-a-programmer-with-adhd-2d4d89fb195a)     
+[How to manage being a programmer with ADHD?](https://gundogmuseray.medium.com/how-you-become-a-programmer-with-adhd-2d4d89fb195a)     
 
 <h4> Latest Design Works <br>
 
