@@ -6,7 +6,7 @@
      const obj = {
         JavaScript: 'React, Next.js, Three.js, Vue, TypeScript',
         CSS: 'SasS, Tailwind, Bootstrap, PostCSS, Styled-jsx, Material UI',
-        DesignTools: 'Figma, Illustrator, Photoshop, Blender'
+        DesignTools: 'Figma, Illustrator, Photoshop, Adobe Xd, Blender'
         }
 
 </h3>
