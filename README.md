@@ -1,5 +1,5 @@
 # Hello, folks!
-<h3> My name is Eray Gundogmus and I'm a software developer and UI/UX Designer. I just keep practicing on JavaScript. </h3>      <img align="right" width="280px"src="https://media.giphy.com/media/UrhRO3XMGpNM6E1Mvs/giphy-downsized.gif"> <br>
+<h3> My name is Eray Gundogmus and I'm a software developer and UI/UX Designer. I am currently practicing on MongoDB, ExpressJs, NodeJS. </h3>      <img align="right" width="280px"src="https://media.giphy.com/media/UrhRO3XMGpNM6E1Mvs/giphy-downsized.gif"> <br>
 <br>
 <h3>  
 
