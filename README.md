@@ -4,7 +4,7 @@
 <h3>  
 
      const obj = {
-        JavaScript: 'React, Next.js, Three.js, Vue, TypeScript',
+        JavaScript: 'React, Next.js, Three.js, Vue, Nuxt, TypeScript',
         CSS: 'SasS, Tailwind, Bootstrap, PostCSS, Styled-jsx, Material UI',
         DesignTools: 'Figma, Illustrator, Photoshop, Adobe Xd, Blender'
         }
