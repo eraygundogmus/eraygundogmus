@@ -9,10 +9,11 @@ I am a skilled Frontend Engineer with experience in developing complex and inter
 - ✨ [Açık Yazılım Ağı](https://github.com/acikkaynak)
 
 
-## 📃 Latest Blog Post
+## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How an Open-Source Disaster Map Helped Thousands of Earthquake Survivors: afetharita.com](https://dev.to/erayg/how-an-open-source-disaster-map-helped-thousands-of-earthquake-survivors-afetharitacom-440)
+- [Simplifying Client-Side Authentication with Firebase and SvelteKit](https://medium.com/@gundogmuseray/easy-way-to-stop-worry-about-client-side-auth-with-firebase-and-sveltekit-d17cdcccb663)
 
 <!-- BLOG-POST-LIST:END -->
 
