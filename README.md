@@ -14,6 +14,7 @@ I am a skilled Frontend Engineer with experience in developing complex and inter
 <!-- BLOG-POST-LIST:START -->
 - [How an Open-Source Disaster Map Helped Thousands of Earthquake Survivors: afetharita.com](https://dev.to/erayg/how-an-open-source-disaster-map-helped-thousands-of-earthquake-survivors-afetharitacom-440)
 - [Simplifying Client-Side Authentication with Firebase and SvelteKit](https://medium.com/@gundogmuseray/easy-way-to-stop-worry-about-client-side-auth-with-firebase-and-sveltekit-d17cdcccb663)
+- [GPT-4 and GitHub Actions for PR Review Automation: AI Code Reviewer](https://dev.to/erayg/gpt-4-and-github-actions-for-pr-review-automation-ai-code-reviewer-cb3) 
 
 <!-- BLOG-POST-LIST:END -->
 
