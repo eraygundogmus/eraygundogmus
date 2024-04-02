@@ -8,7 +8,7 @@ I am a skilled Frontend Engineer with experience in developing complex and inter
 - ✨ [10forward](https://10forward.io/)
 - ✨ [Frontendship](https://github.com/frontendship) 
 - ✨ [kamp.us](https://github.com/kamp-us)
-- ✨ [Açık Yazılım Ağı](https://github.com/acikkaynak)
+- ✨ [Açık Yazılım Ağı](https://github.com/acikyazilimagi)
 
 
 ## 📃 Latest Blog Posts
