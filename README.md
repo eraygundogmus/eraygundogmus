@@ -5,7 +5,6 @@ I am a skilled Frontend Engineer with experience in developing complex and inter
 
 ## Communities I contribute
 
-- ✨ [10forward](https://10forward.io/)
 - ✨ [Frontendship](https://github.com/frontendship) 
 - ✨ [kamp.us](https://github.com/kamp-us)
 - ✨ [Açık Yazılım Ağı](https://github.com/acikyazilimagi)
